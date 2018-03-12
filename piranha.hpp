@@ -1,8 +1,9 @@
+#ifndef _PIRANHA_
+#define _PIRANHA_
+
 #include "ikan.hpp"
 #include "point.hpp"
 
-#ifndef _PIRANHA_
-#define _PIRANHA_
 
 class Piranha : public Ikan{
     public :
