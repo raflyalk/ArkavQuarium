@@ -1,5 +1,5 @@
-#include "ikan.hpp"
-#include "point.hpp"
+#include "Ikan.hpp"
+#include "Point.hpp"
 
 #ifndef _GUPPY_
 #define _GUPPY_

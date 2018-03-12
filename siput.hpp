@@ -1,8 +1,8 @@
 #ifndef SIPUT_H
 #define SIPUT_H
 
-#include "aquarium.hpp"
-#include "point.hpp"
+#include "Aquarium.hpp"
+#include "Point.hpp"
 
 template <class T>
 class Siput {

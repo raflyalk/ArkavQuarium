@@ -1,5 +1,5 @@
 #include <iostream>
-#include "aquarium.hpp"
+#include "Aquarium.hpp"
 #include "Point.hpp"
 using namespace std;
 

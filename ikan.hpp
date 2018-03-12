@@ -1,5 +1,5 @@
 #include <iostream>
-#include "point.hpp"
+#include "Point.hpp"
 using namespace std;
 
 #ifndef _IKAN_
