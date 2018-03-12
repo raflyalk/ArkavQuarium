@@ -4,7 +4,7 @@ using namespace std;
 
 template <typename T>
 class List{
-	protected :
+	protected:
 		T value;
 		int num;
 		List* next;

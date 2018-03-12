@@ -6,7 +6,7 @@
 
 
 class Piranha : public Ikan{
-    public :
+    public:
         Piranha();
         void searchMakanan();
         void makan();

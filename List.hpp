@@ -7,7 +7,7 @@ using namespace std;
 #define _LIST_
 template <typename T>
 class List{
-	protected :
+	protected:
 		T value;
 		int num;
 		List* next;

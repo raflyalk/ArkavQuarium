@@ -1,7 +1,7 @@
 class Point{
-    protected :
+    protected:
         int x,y;
-    public :
+    public:
         Point();
         Point(int nx, int ny);
         

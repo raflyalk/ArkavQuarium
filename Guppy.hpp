@@ -5,7 +5,7 @@
 #define _GUPPY_
 
 class Guppy : public Ikan{
-    public :
+    public:
         Guppy();
         void searchMakanan();
         void makan();
