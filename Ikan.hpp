@@ -56,4 +56,4 @@ class Ikan(){
         virtual void searchMakanan() = 0;      
 };
 
-#endif _IKAN_
+#endif

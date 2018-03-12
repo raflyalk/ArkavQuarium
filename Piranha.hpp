@@ -16,4 +16,4 @@ class Piranha : public Ikan{
         void operator--();
 }
 
-#endif _PIRANHA_
+#endif

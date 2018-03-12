@@ -15,4 +15,4 @@ class Guppy : public Ikan{
         void operator--();
 }
 
-#endif _GUPPY_
+#endif
