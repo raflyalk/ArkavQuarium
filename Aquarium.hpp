@@ -13,5 +13,5 @@ class Aquarium{
         ~Aquarium();
         void addObject(Objek A);
         void moveObject(Objek A);
-        void printMatrix()
+        friend class Objek;
 }
