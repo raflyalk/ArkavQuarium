@@ -2,6 +2,9 @@
 using namespace std;
  //Compiler version g++ 6.3.0
 
+
+#ifndef _LIST_
+#define _LIST_
 template <typename T>
 class List{
 	protected :
@@ -121,3 +124,5 @@ class List{
 			return(in);
 		}
 };
+
+#endif _LIST_
