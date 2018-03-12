@@ -2,6 +2,9 @@
 using namespace std;
  //Compiler version g++ 6.3.0
 
+
+#ifndef _LIST_
+#define _LIST_
 template <typename T>
 class List{
 	protected :
@@ -122,17 +125,4 @@ class List{
 		}
 };
 
-
- int main(){
- 	List<int> L(10);
- 	L.add(11);
- 	L << 13 << 15;
- 	cout << "[" << L << "]" << endl ;
- 	cout << L.get(1) << endl;
- 	List<int> LL;
- 	cin >> LL;
- 	cout << "[" << LL << "]" << endl;
- 	int c = LL.popLast();
- 	cout << LL.get(1)<< endl;
- 	cout << c << endl;
- }
+#endif _LIST_
