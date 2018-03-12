@@ -5,11 +5,11 @@ using namespace std;
 #ifndef _IKAN_
 #define _IKAN_
 class Ikan(){
-    protected :
+    protected:
         int price, coin, level, hp;
         char diet, status;      
         Point P;
-    public :
+    public:
         //Constructor Default Ikan
         Ikan();
         //User Defined Constructor Ikan
